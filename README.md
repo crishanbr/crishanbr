@@ -27,8 +27,8 @@ Soy una persona entusiasta con ganas de asumir nuevos retos y aprender nuevas ha
   </a>
 </div>
 
-<details>
-  <summary>☎️ Contacto</summary>
+<!--<details>
+  <summary>☎️ Contacto</summary> -->
 <div>
   <samp>
     <h2 align="center">Puedes encontrarme en:</h2>
@@ -37,7 +37,7 @@ Soy una persona entusiasta con ganas de asumir nuevos retos y aprender nuevas ha
       <a href="https://www.linkedin.com/in/crishanbr/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="crishanbr" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+      <a href="https://fb.com/crishanbr" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="crishanbr" height="30"/></a>
       <a href="https://mailto:crishan.0531@gmail.com" target="blank"><img align="center"
@@ -56,4 +56,4 @@ Soy una persona entusiasta con ganas de asumir nuevos retos y aprender nuevas ha
     </p>
   </samp>
 </div>
-</details>
+<!--</details>-->
