@@ -60,7 +60,7 @@ const Header = () => {
                <CrishanLogo height="2em" />
             </Link>
             <Spacer />
-            <Flex gap={3}>
+            <Flex gap={3} display={["none", "flex"]}>
                <Flex gap={2}>
                   <NavItem />
                </Flex>

@@ -34,7 +34,7 @@ export const navs: NavItemProps[] = [
    },*/
    {
       href: "/contact",
-      label: "Redes sociales",
+      label: "Contacto",
       icon: FiLink,
    },
 ];

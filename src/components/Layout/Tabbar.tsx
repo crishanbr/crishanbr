@@ -39,7 +39,9 @@ const TabBar = () => {
          <Drawer placement="bottom" onClose={onClose} isOpen={isOpen}>
             <DrawerOverlay />
             <DrawerContent
-               roundedTop="xl">
+               roundedTop="xl"
+               layerStyle="bgBlur"
+               background="alphaBackground">
                <DrawerHeader display="flex" flexDir="row">
                   <Spacer />
                   <ToggleTheme />
