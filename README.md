@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola <img width="24" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Soy Cris Baque
+  Hola :) <img width="24" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> soy Cristhofer Baque
 </h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
