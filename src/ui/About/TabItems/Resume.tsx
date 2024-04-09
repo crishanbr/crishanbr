@@ -9,13 +9,13 @@ const Resume = () => {
       return (
          <Button 
             as='a' download
-            href='docs/crishanbr_cv.pdf'
+            href='docs/CrishanCV-2024.pdf'
             leftIcon={<FaDownload />}
             variant='outline'
             w='100%'
             rounded="md"
          >
-            Descargar CV
+            Descargar Curriculum
          </Button>
       );
    }
@@ -35,7 +35,7 @@ const Resume = () => {
             >
                <Box 
                   as="iframe" 
-                  src="https://drive.google.com/file/d/1jECCQC8YfnBscGaVDJ-cAjC0HlgT7O1r/preview?usp=embed_googleplus"
+                  src="https://drive.google.com/file/d/1E3ICJp9O61n06-fg61Z_B2GBITB471xx/preview"
                   position="absolute"
                   width="100%" 
                   height="100%" 
